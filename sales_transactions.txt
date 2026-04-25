@@ -1,0 +1,13 @@
+TxnID|Product|Category|Qty|Unit_Price|Total|Date|Status
+T001|Laptop Pro|Electronics|1|75000|75000|2024-03-01|Completed
+T002|wireless mouse|electronics|2|1500|3000|2024-03-01|completed
+T003|Laptop Pro|Electronics|1|75000|75000|2024-03-01|Completed
+T004|USB Hub|Electronics|3|   999|2997|01-03-2024|COMPLETED
+T005|Office Chair|furniture|1|12500||2024-03-02|Completed
+T006|Desk Lamp|Furniture|2|850|1700|2024-03-02|Pending
+T003|Laptop Pro|Electronics|1|75000|75000|2024-03-01|Completed
+T007|keyboard|ELECTRONICS|1|2500|2500|March 3 2024|completed
+T008|Monitor 24"|Electronics|2|18000|36000|2024-03-03|Cancelled
+T009|office chair|Furniture|1|12500|12500|2024-03-03|Completed
+T010|Standing Desk|furniture|1|25000|25,000|2024-03-04|completed
+T011|Webcam HD|Electronics|N/A|3500|3500|2024-03-04|Completed

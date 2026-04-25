@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Phone,Age,City,Signup_Date
+001,john harris,john.harris@gmail.com,4085551210,28,Austin,2023-01-15
+002,CLAIRE MORGAN,,+1-408-555-1211,35,Boston,15/01/2023
+003,Ryan Fletcher,ryan@yahoo.com,4085551212,  ,Chicago,2023-01-17
+004,amanda cole,amanda.cole@gmail.com,40 85 55 12 13,29,Seattle,2023-01-18
+005,  Kevin Brooks  ,KEVIN@HOTMAIL.COM,4085551214,31,Denver,Jan 19 2023
+006,Laura Bennett,laura@gmail.com,4085551215,27,portland,2023-01-20
+007,steven grant,steven.grant@,4085551216,45,Phoenix,2023-01-21
+008,Megan Walsh,megan@gmail.com,4085551217,N/A,Dallas,2023-01-22
+009,ALAN FOSTER,alan@gmail.com,4085551218,33,austin,22-01-2023
+010,rachel price,rachel@gmail.com,,26,Boston,2023-01-23

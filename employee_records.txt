@@ -1,0 +1,13 @@
+EmpID,Full_Name,Department,Designation,Salary,Join_Date,Email,Gender
+E101,Aaron Mitchell,Engineering,Software Engineer,85000,2022-06-01,aaron.mitchell@company.com,Male
+E102,SOPHIE REYNOLDS,HR,HR Executive,52000,01/07/2022,sophie@company.com,female
+E103,Victor Hayes,engineering,Senior Developer,,2022-07-15,victor.hayes@company.com,Male
+E104,  Lillian Daye  ,Finance,Accountant,61000,Aug 1 2022,lillian@company.com,F
+E105,martin cross,Engineering,Software Engineer,85000,2022-08-10,,Male
+E106,Katherine Ross,HR,HR Manager,78000,2022-08-20,katherine@company.com,female
+E107,Raymond Clarke,FINANCE,Analyst,58000,2022-09-01,raymond.clarke@company.com,m
+E108,Alicia Stone,Engineering,Software Engineer,85000,2022-09-15,alicia@company.com,
+E109,patrick lane,engineering,Junior Developer,72000,15-10-2022,patrick@company.com,Male
+E110,Diana Morton,Finance,Senior Accountant,N/A,2022-10-20,diana.morton@company.com,Female
+E103,Victor Hayes,Engineering,Senior Developer,92000,2022-07-15,victor.hayes@company.com,Male
+E111,samuel west,Marketing,Marketing Executive,55000,2022-11-01,samuel@company.com,Male
